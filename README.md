@@ -1,5 +1,5 @@
 # Odin Recipes
-This is a web page that consists of recipe for lasagna, pizza, and sandwich.
+A practice using HTML to show recipes for lasagna, pizza, and sandwich.
 ## Created With
 * HTML
 ## Notes
